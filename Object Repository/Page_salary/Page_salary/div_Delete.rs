@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delete</name>
+   <tag></tag>
+   <elementGuidId>ac63919e-4c3c-4dd0-8268-f6f9d3d14d28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='overlay_menu']/ul/li[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>679d4716-d79d-42ee-a558-74894054924b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex align-items-center menu-selection m-2 p-1 p-1</value>
+      <webElementGuid>bf839b42-958c-46cd-ba2a-6417fa944ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>1b5e8bcd-a17a-4b80-a47f-0d725b05782b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;overlay_menu&quot;)/ul[@class=&quot;p-menu-list p-reset&quot;]/li[@class=&quot;p-menuitem&quot;]/div[@class=&quot;flex align-items-center menu-selection m-2 p-1 p-1&quot;]</value>
+      <webElementGuid>72985aac-727f-4a76-abb8-b9fc5b6348ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='overlay_menu']/ul/li[2]/div</value>
+      <webElementGuid>72ab7bef-f016-4063-bbf4-ab82d84921f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::div[1]</value>
+      <webElementGuid>1849cf6a-541c-46fc-afb4-89c6ef42b4d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PrimeOne Design - 2021'])[1]/following::div[20]</value>
+      <webElementGuid>bff428fa-68fe-4c46-aba8-9491d7cccecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User list'])[1]/preceding::div[1]</value>
+      <webElementGuid>a5890424-465e-4b65-8e41-84837b2e3b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/ul/li[2]/div</value>
+      <webElementGuid>38177d17-bbd6-49ce-9ac2-cb1f496f1a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>b619802c-6740-43cc-8172-6b23c3875e43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

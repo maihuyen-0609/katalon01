@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>1b4a1357-443e-405e-a2e6-76b2e7e16aec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.p-button-icon-only.p-button-rounded.p-button-help.mr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d5662284-f2ae-45ea-bd73-52c2b7bbb660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component p-button-icon-only p-button-rounded p-button-help mr-2</value>
+      <webElementGuid>26349357-bb71-41b1-839a-cb110786f61c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>41b4fd20-8ddd-4ad5-a627-09e29531e5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>cc3afbd2-3204-4a13-abb9-73c2a84ac24d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-main-container&quot;]/div[@class=&quot;layout-main&quot;]/div[1]/div[1]/div[2]/div[@class=&quot;p-datatable p-component p-datatable-hoverable-rows p-datatable-scrollable p-datatable-scrollable-vertical p-datatable-responsive-stack editable-cells-table&quot;]/div[@class=&quot;p-datatable-header&quot;]/div[1]/div[@class=&quot;flex justify-content-between flex-wrap align-items-center&quot;]/div[2]/button[@class=&quot;p-button p-component p-button-icon-only p-button-rounded p-button-help mr-2&quot;]</value>
+      <webElementGuid>fc9856ae-45dd-4a9c-8cbe-c0121306be16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>9b602b63-fe33-41b0-b1bf-1d7b133e31a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[3]/div/div/div/div[2]/div/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>30faafa4-53aa-4d6f-9934-76099e094d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/following::button[2]</value>
+      <webElementGuid>8ec4f4ad-4131-4f65-905b-7e8f8243f27c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::button[3]</value>
+      <webElementGuid>91a5342a-942e-43af-9239-7ba7a8ab5fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total 34'])[1]/preceding::button[2]</value>
+      <webElementGuid>3d71c81f-ce2b-44ff-8bec-b874a7ff29b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::button[10]</value>
+      <webElementGuid>2040835f-12e9-4fd9-bfe7-97d5387fa459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>660df2ef-513f-4420-bf9f-a601773ab85e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' ' or . = ' ')]</value>
+      <webElementGuid>f4100f4f-a4f0-4904-b28c-4a9d9fb0662a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

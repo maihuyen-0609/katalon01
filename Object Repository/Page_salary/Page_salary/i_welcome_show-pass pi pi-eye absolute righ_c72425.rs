@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_welcome_show-pass pi pi-eye absolute righ_c72425</name>
+   <tag></tag>
+   <elementGuidId>939ba628-defd-4c8c-89f0-12b6b85ce204</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.show-pass.pi.pi-eye.absolute.right-0.mr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[2]/div[2]/form/div[2]/span/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6d5118c7-f6dc-4d43-92f9-848f12e02935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>show-pass pi pi-eye absolute right-0 mr-2</value>
+      <webElementGuid>532d8bf2-c24e-4f1a-a9b9-f1beecda5003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;login-container flex h-screen p-8&quot;]/div[@class=&quot;login-form col-6 flex justify-content-center align-items-center flex-column relative&quot;]/div[@class=&quot;login-form__with-username text-center w-6 fadeinright animation-duration-300 animation-iteration-1 animation-linear&quot;]/form[@class=&quot;p-fluid&quot;]/div[@class=&quot;field col-12 relative&quot;]/span[@class=&quot;p-input-icon-left w-full relative&quot;]/i[@class=&quot;show-pass pi pi-eye absolute right-0 mr-2&quot;]</value>
+      <webElementGuid>e1d8b959-4354-4560-9912-4ef8be5d9669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[2]/div[2]/form/div[2]/span/i[2]</value>
+      <webElementGuid>b88da57a-065b-48c2-9dfa-a62627d8e3f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>24791da9-f5d0-483e-aba3-ead1ca005934</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

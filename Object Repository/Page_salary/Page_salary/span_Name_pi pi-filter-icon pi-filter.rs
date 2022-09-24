@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Name_pi pi-filter-icon pi-filter</name>
+   <tag></tag>
+   <elementGuidId>91e0a9b9-ff4b-49f6-a586-5dc3d9bb06ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.pi.pi-filter-icon.pi-filter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[3]/div/div/div/div[2]/div/div[3]/table/thead/tr/th[2]/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d56a7441-c66e-4ca3-9cfe-6661f035309a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-filter-icon pi-filter</value>
+      <webElementGuid>71704cc8-c23d-4165-a5e9-a253c4e8e3f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-main-container&quot;]/div[@class=&quot;layout-main&quot;]/div[1]/div[1]/div[2]/div[@class=&quot;p-datatable p-component p-datatable-hoverable-rows p-datatable-scrollable p-datatable-scrollable-vertical p-datatable-responsive-stack editable-cells-table&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/thead[@class=&quot;p-datatable-thead&quot;]/tr[1]/th[@class=&quot;is-tooltip name&quot;]/div[@class=&quot;p-column-header-content&quot;]/div[@class=&quot;p-column-filter p-fluid p-column-filter-menu&quot;]/button[@class=&quot;p-column-filter-menu-button p-link&quot;]/span[@class=&quot;pi pi-filter-icon pi-filter&quot;]</value>
+      <webElementGuid>fea44d7a-2cb2-4d0e-82f9-88fae112ce90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[3]/div/div/div/div[2]/div/div[3]/table/thead/tr/th[2]/div/div/button/span</value>
+      <webElementGuid>6a8e2dd9-fb21-49c3-823e-9bd088ae3967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]/div/div/button/span</value>
+      <webElementGuid>9f736d61-3390-422b-b04a-c62d54fd9895</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

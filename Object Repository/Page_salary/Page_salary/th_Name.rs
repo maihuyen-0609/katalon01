@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Name</name>
+   <tag></tag>
+   <elementGuidId>efd4b4c8-ed52-421d-b826-384a2dbf0156</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.is-tooltip.name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[3]/div/div/div/div[2]/div/div[3]/table/thead/tr/th[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>4dbf3204-8009-4d1e-81fc-f5e6312afbbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>is-tooltip name</value>
+      <webElementGuid>565d0719-3b36-45e6-912f-7f5e981dfef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>8dc49225-2310-4578-b292-17889174530b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name</value>
+      <webElementGuid>a02f13b7-a845-4874-8c37-05b00b71bc1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-main-container&quot;]/div[@class=&quot;layout-main&quot;]/div[1]/div[1]/div[2]/div[@class=&quot;p-datatable p-component p-datatable-hoverable-rows p-datatable-scrollable p-datatable-scrollable-vertical p-datatable-responsive-stack editable-cells-table&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/thead[@class=&quot;p-datatable-thead&quot;]/tr[1]/th[@class=&quot;is-tooltip name&quot;]</value>
+      <webElementGuid>dda378ad-05c9-4cb2-95a5-b4666ad70227</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[3]/div/div/div/div[2]/div/div[3]/table/thead/tr/th[2]</value>
+      <webElementGuid>593e77e6-802f-40c6-ad8a-b7549d0daf69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/following::th[1]</value>
+      <webElementGuid>429045d1-625d-4955-ac61-4a5425554652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total 34'])[1]/following::th[2]</value>
+      <webElementGuid>6b2fcc6a-0905-4715-8e5c-627ccb23365f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role name'])[1]/preceding::th[1]</value>
+      <webElementGuid>12054dc6-d1a5-4ca3-9934-97a7f5d90905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]</value>
+      <webElementGuid>691005b8-e0e5-47d7-b76a-92e22c03b1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Name' or . = 'Name')]</value>
+      <webElementGuid>384fff08-5e56-4f34-b2d4-0fcb34405d60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
